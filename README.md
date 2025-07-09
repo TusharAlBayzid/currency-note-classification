@@ -86,46 +86,6 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run (Localhost)
-
-### Step 1: Clone the Repo
-git clone https://github.com/yourusername/Currency-Note-Classification.git
-cd Currency-Note-Classification/src
-
-### Step 2: Setup Environment
-python -m venv venv
-source venv/bin/activate        # Linux/macOS
-venv\Scriptsctivate           # Windows
-
-### Step 3: Install Dependencies
-pip install -r requirements.txt
-
-### Step 4: Run the App (Flask)
-python app.py
-
-Visit: http://127.0.0.1:5000 to access the interface.
-
----
-
-## 🌐 Deployment Options
-
-### Option A: Deploy on PythonAnywhere (Flask)
-1. Create a free account.
-2. Upload your Flask files and model.
-3. Configure the WSGI file.
-4. Link the `/predict` route to a simple HTML upload form.
-
-### Option B: Streamlit Cloud / HuggingFace Spaces
-- Use `streamlit run app.py`
-- Easy interface with file upload and result preview.
-
-### Option C: WordPress Integration
-- Deploy backend Flask on PythonAnywhere.
-- Use HTML + JS in WordPress to send image to API.
-- Receive prediction and show result.
-
----
-
 ## 🧪 Sample Output
 
 | Sample Image           | Predicted Label  |
@@ -152,7 +112,3 @@ Visit: http://127.0.0.1:5000 to access the interface.
 Dept. of CSE, 8th Semester, NEUB
 
 ---
-
-## 📄 License
-
-MIT License – free for academic & educational use.
