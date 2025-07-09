@@ -105,6 +105,14 @@ pip install -r requirements.txt
 
 ---
 
+## 📦 Project Download
+
+Due to GitHub file size limitations, the complete project ZIP (including dataset and model) is available here:
+
+🔗 https://drive.google.com/drive/folders/111sYuyT0b6tkigZHvhUIpkaXT8BnVzoG?usp=sharing
+
+---
+
 ## 👨‍💻 Contributors
 
 - **Bayzid Mostak** – ID: 210303020010  
