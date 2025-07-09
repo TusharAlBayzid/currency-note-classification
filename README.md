@@ -1,7 +1,7 @@
 
 # 💵 Currency Note Classification Using Deep Learning
 
-This project classifies Bangladeshi currency notes using a Convolutional Neural Network (CNN) model. The model can identify currency denominations from images (10, 20, 50, 100, 200, 500, and 1000 Taka).
+This project classifies Bangladeshi currency notes using a Convolutional Neural Network (CNN) model. The model can identify currency denominations from images (1, 2, 5, 10, 20, 50, 100, 500, and 1000 Taka).
 
 ---
 
